@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  line-height: 1.5;
+  background-color: #fff;
+  margin: 0;
+}
+.header {
+  border-top: 5px solid #f1c222;
+  border-color: #f1c222;
+}
+.image2 {
+  height: 20px;
+  width: 20px;
+}
+section {
+  display: flex;
+  background-color: blue;
+}
+.par {
+  display: flex;
+  justify-content: end;
+  flex-basis: 700px;
+}
+/* .navbar-toggler .navbar-toggler-icon {
+  background-image: url(
+   " ""viewBox="0 0 30 30"%3e%3cpathstroke="rgba%28255, 255, 255, 0.55%29"stroke-linecap="round"stroke-miterlimit="10"stroke-width="2"d="M4 7h22M4 15h22M4 23h22"
+  );
+} */
+.para1 {
+  text-align: justify;
+}
+main {
+  padding-top: 10px;
+}
+.img-details {
+  border-radius: 30px;
+}
+#head5 {
+  color: rgb(35, 35, 236);
+}
+.img-web {
+  height: 65px;
+  padding: 10px;
+}
+#footer {
+  background-color: rgb(40, 38, 38);
+}
+#footer-div1 {
+  border-bottom: rgb(252, 251, 249) 1px solid;
+}
+#footer-div3 {
+  border-left: 1px solid #fff;
+}
+
+.anime {
+  width: 100%;
+  margin: 0;
+  bottom: 0;
+  left: 0;
+  height: 40px;
+  position: fixed;
+}
+.no-move {
+  background-color: #dc3545;
+  height: 40px;
+  position: fixed;
+}
+.ani {
+  margin-left: 64px;
+}
+.card1:hover {
+  border: none;
+  transform: scale(1.1);
+  box-shadow: 0 10px 15px rgb(0 0 0 / 8%), 0 0 6px rgb(0 0 0 / 5%);
+}
+.card2:hover {
+  border: none;
+  transform: scale(1.1);
+  box-shadow: 0 10px 15px rgb(0 0 0 / 8%), 0 0 6px rgb(0 0 0 / 5%);
+}
+.card3:hover {
+  border: none;
+  transform: scale(1.1);
+  box-shadow: 0 10px 15px rgb(0 0 0 / 8%), 0 0 6px rgb(0 0 0 / 5%);
+}
+.card4:hover {
+  border: none;
+  transform: scale(1.1);
+  box-shadow: 0 10px 15px rgb(0 0 0 / 8%), 0 0 6px rgb(0 0 0 / 5%);
+}
+.card1 {
+  border: none;
+}
+.card2 {
+  border: none;
+}
+.card3 {
+  border: none;
+}
+.card4 {
+  border: none;
+}
